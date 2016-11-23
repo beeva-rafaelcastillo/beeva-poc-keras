@@ -20,4 +20,15 @@ python lstm_text_generation.py
 Time per iteration (Intel Core i5): 1400s aprox.
 
 
+### Conclusions:
+
+* According to author comments:
+At least 20 epochs are required before text starts sounding coherent.
+
+* Training time is very slow on CPU
+  * 8 hours for 3M characters. 
+  * Minimum recommended 2.5 hours for 1M characters 
+
+
+
 
