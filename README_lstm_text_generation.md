@@ -23,11 +23,36 @@ Example:
 After 11 iterations. Diversity: 0.5. Generating with seed: "*modó su barba, y siguieron su camino, g*"
 >modó su barba, y siguieron su camino, gentire, y para que no hay le dieren por la locura de la vista de la cual has asido a pastor de alguna pensamiento, y al diligerle, y si con la�perio su amor y con un escudero de mi mala caballería de todas cosas pasares el demanda, y el cual, en la lengua que tengo de así se le dejan su buena recio de la caballer�acho de pedir a la resi en que le amorecidad y en el primero de su casa de la mujer
 
+After 17 iterations. Diversity: 0.5. Generating with seed: " se engendraren, \ntales serán sus escri"
+>se engendraren,
+tales serán sus escri
+
+
+"
+
+
+
+
+�
+
+
+
+
+
+
+
+
+
+k
+
+
 
 ### Conclusions:
 
 * According to author comments:
 At least 20 epochs are required before text starts sounding coherent.
+
+* But in our case non-alfanumeric characters become very frequent and generated sequences become even less similar to words.
 
 * Training time is very slow on CPU
   * 8 hours for 3M characters. 
